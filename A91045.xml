@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings at the sessions of oyer and terminer held at the sessions-house in the Old-Baily, for the city of London, county of Middlesex, and goal-delivery of Newgate, which began on the 29th of August and ended on the 30th instant, but especially the tryals of S. Tufton, and Joh. Culfant</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91045</idno><idno type="EEBO-CITATION">99899415</idno>
+  <idno type="VID">153496</idno>
+  <idno type="EEBO-PROQUEST">2240850234</idno>
+  
+            <idno type="STC">Wing P3566</idno>
+            <idno type="STC">ESTC R215585</idno>
+            <idno type="PROQUEST">99899415</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899415e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings at the sessions of oyer and terminer held at the sessions-house in the Old-Baily, for the city of London, county of Middlesex, and goal-delivery of Newgate, which began on the 29th of August and ended on the 30th instant, but especially the tryals of S. Tufton, and Joh. Culfant</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>1 sheet ([2]p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tufton, Sackville, d. 1721 --  Early works to 1800.</term>
+               <term type="personal_name">Culfant, John --  Early works to 1800.</term>
+               <term type="topical_term">Trials --  England --  Early works to 1800.</term>
+               <term type="topical_term">Crime --  England --  Early works to 1800.</term>
+               <term type="topical_term">Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153496:1"/>
+            <head>The Proceedings at the Sessions of Oyer and Terminer Held at the Sessions-House in the OLD-BAILY, For the City of <hi>London,</hi> County of <hi>Middlesex,</hi> and Goal-Delivery of <hi>Newgate,</hi> which began on the 29<hi>th</hi> of <hi>August</hi> and ended on the 30<hi>th</hi> Instant, but Especially the Tryals of <hi>S. Tufton,</hi> and <hi>Joh. Culfant.</hi>
+            </head>
+            <p>
+               <hi>LAurance Adington</hi> was Indicted, Ar<g ref="char:EOLhyphen"/>raigned, and brought upon his Tryal for a Fellony and Burglary, com<g ref="char:EOLhyphen"/>mitted on the House of <hi>Edward Page</hi> in the Parish of Little St. <hi>Bartholomews,</hi> which upon evidence appeared in this manner, <hi>viz.</hi> The House of the Prosecutor being Broak-open in the Night time, and six Silver <hi>Tan<g ref="char:EOLhyphen"/>kards</hi> taken thence to the Value of 30 <hi>l.</hi> the next Morning a pick Lock Key was found in the Cupboard from whence the Plate was ta<g ref="char:EOLhyphen"/>ken, when some suspition Arising of the Prisoner, he was pursued, and taken at <hi>Lambeth-Ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh,</hi> as he was entring a suspitious House, and upon search, a pick-Lock Key found in the said House, so that the Prisoner having been Burnt in the Hand, and upon suspition Committed to <hi>Bridewel</hi> in <hi>Southwark,</hi> where he confessed to one <hi>Rose</hi> that he had the Plate, but it was too deep gone to be recovered, though at his Tryal he pleaded Ignorance, and called some witnesses, but one being as Scandalous as himself, she was Committed to Custody, he was found Guilty of the Fellony.</p>
+            <p>
+               <hi>Frances Marsh</hi> was Tryed for picking a Watch and about 30 s. in Mony out of the Pocket of one <hi>Edward Brooks,</hi> when in Court upon Oath it appeared, that the Prisoner was in Company of another Woman, picked up the Prosecutor in <hi>Fleet-street</hi> and proffered either to give or take a Bottle of Wine, which agreed on, they went to the <hi>Green-Dragon-Tavern,</hi> and there Hug'd him so long till they had pickt his Pocket of the Watch and Mony afore<g ref="char:EOLhyphen"/>said, but he presently missing them, upon search found his Watch about the Prison<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, her Plea was, that she having a wicked Husband that lived with another Woman, he had set on the Prosecutor to take away her Life, to be rid on her, denying that she ever had the Watch, or committed the Fact, but it being Evident, she was convict of the Fellony and Robbery.</p>
+            <p>
+               <hi>Sackvil Tufton</hi> Esq; a Captain of his Majesties Foot Guards, was Tryed for Killing <hi>Agrith Hasselwood,</hi> in <hi>Lincolns-Inn-Fields</hi> on the 21st of <hi>July</hi> last, which upon evidence appeared in this manner; The Prisoner being at the Head of hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Company, to be Assisting to the She<g ref="char:EOLhyphen"/>riffs in the performance of their Office, upon the Execution of the Lord <hi>Russel,</hi> when the said Lord <hi>Russel</hi> was brought in his Coach, he caused his stand of Pikes to charge, in Order to keep off the Throng, when on the out-side of the Companies, there being a Ring made by the Constables and Bill-Men of the <hi>Hamlets,</hi> the Deceased being one of them, it unfortu<g ref="char:EOLhyphen"/>nately happened, that the Prisoner pushing with his Pike or leading Staff, struck him on the Breast, into which towards the Left-side the head of the Staff entred four Inches, upon which the Deceased cryed out he was a Dead Man, Vomiting Blood at his Mouth, and de<g ref="char:EOLhyphen"/>siring those that stood by to Seize the Prisoner, saying he had Killed him, and within less then an hour after Died. This being sworn on the part of the King by divers witnesses, the Pri<g ref="char:EOLhyphen"/>soners witnesses were called, who declared, that the Constables and their Assistance had Orders not to Enter the Field, but to keep Guard in <hi>Holbourn,</hi> that they pressed hard up<g ref="char:EOLhyphen"/>on the Guards, which oblidged them to charge their Pikes for the keeping their Orders clear, that at the time the Pikes were so charged, and the wound given, the Prisoner stood on the Right-side of the Pikes, and that the wound was received on the Left, which could not probably be done, and that the Prisoners Pike was at least a yard shorter then any of them, and that in all likelihood it was given by some other, and further alledged, that by reason of a weakness in his Arme, he was not capable of giving such a Thrust, and that he was a Man not Subject to passion or rash Actions, whereup<g ref="char:EOLhyphen"/>on he was found Guilty of Man-Slaughter only.</p>
+            <p>
+               <hi>Joseph Curtis,</hi> and <hi>Peter Neverson</hi> were Try<g ref="char:EOLhyphen"/>ed for Stealing a Silver <hi>Tankard,</hi> Valued 4 <hi>l.</hi> from one <hi>William Mock</hi> in St. <hi>Magnes</hi> parish on the 7th. of <hi>August</hi> last, which Fact be<g ref="char:EOLhyphen"/>ing plain, they were both found Guilty of the Fellony.</p>
+            <p>
+               <hi>Thomas Norton</hi> took his Tryal upon an In<g ref="char:EOLhyphen"/>dictment of Fellony and Burglary, for Break<g ref="char:EOLhyphen"/>ing the House of <hi>John Hopton</hi> of St. <hi>Sepulchers</hi> Parish, and Stealing out Coats, Cloaks, and Breeches, and the like, upon which it was Al<g ref="char:EOLhyphen"/>leadged that the Prisoner working in the House
+<pb facs="tcp:153496:2"/> and knowing the ways of it, had the better op<g ref="char:EOLhyphen"/>portunity to get in at the Garret-Window, and what will rather induce the Evidence to believe was, that he was taken with a pair of Breeches lost at that time, to which he answered, he found them in <hi>Wapping,</hi> but not being able to prove his Allegation, he was found Guilty of the Fellony, though not of the Burglary.</p>
+            <p>
+               <hi>Edward Daniel</hi> was Tryed upon two In<g ref="char:EOLhyphen"/>dictments, one of Fellony and Murther, and another for Fellony and Manslaughter, upon the Inquisition of the Coroner for Killing <hi>Edmund Deering,</hi> on the first of <hi>August,</hi> in the Parish of <hi>New-Branford;</hi> the Evidence thus, the Prisoner, the Deceased, and one <hi>Charles Macarty</hi> (not yet taken) being at a House in the said Town, a Quarrel arose about Drink<g ref="char:EOLhyphen"/>ing Healths, so that the Deceased and <hi>Macarty</hi> drew about words, and fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nging a Brandy-pot, but being parted; Soon after a differance happened between the Prisoner and the Decea<g ref="char:EOLhyphen"/>sed, upon the formers taking <hi>Macartys</hi> part, but notwithstanding, being seemingly made Friends, they contrary to the expectation of the Company went out and Fought, where after some passes, the Deceased received a Wound, of whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in a short time he Dyed, but no Mallice appearing, the Inquisition of Man-Slaughter was only found.</p>
+            <p>
+               <hi>John Smith</hi> was Tryed for Stealing a Par<g ref="char:EOLhyphen"/>liament Robe, from a Person unknown, the which upon his offering it to Sail in <hi>Bishopsgate-street,</hi> was stopped, and he giving no satis<g ref="char:EOLhyphen"/>factory account where he had i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he was com<g ref="char:EOLhyphen"/>mitted, and upon his Tryal alleadged that he found it between <hi>Hackney</hi> and <hi>London,</hi> taking it to be an Aldermans Gown, but that Story appearing Frivilous, he was found Guilty of Fellony.</p>
+            <p>
+               <hi>William Smith</hi> was Tryed upon two Indict<g ref="char:EOLhyphen"/>ments, one for Stealing Cloath from <hi>Oliver Sams,</hi> and another for doing the like by <hi>Richard Kemps,</hi> both which appearing plain by his former Confession, and part of the Goods be<g ref="char:EOLhyphen"/>ing found about him, he was found Guilty to the Value of 10 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Sarah Parson</hi> was Tryed for Robbing <hi>Tho<g ref="char:EOLhyphen"/>mas Midwinter,</hi> of St. <hi>Botolphs,</hi> on the Third of <hi>September</hi> last, of six Coats, four Petticoats, a Parsons Gown, and divers other Cloaths, which She confessed to have delivered to one <hi>Elizabeth Thompson,</hi> whereupon by her own confession she was Convicted.</p>
+            <p>
+               <hi>John Bowman</hi> was Tryed for Killing <hi>Thomas Haydon</hi> by running over him with his Cart, but it appearing upon Evidence that the Child fell just under the Wheel, and that the Priso<g ref="char:EOLhyphen"/>ner neither saw it nor could have prevented it, if he had, the Fact was found <hi>Chance-Medley,</hi> and he acquitted.</p>
+            <p>This day the Wife of Mr. <hi>John Gibbons,</hi> Presented a Petition to the Court purporting that seeing her Husband was committed Pri<g ref="char:EOLhyphen"/>soner to the <hi>Gate-House</hi> for <hi>High-Treason,</hi> and had continued th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re a considerable time to the great prejudice of his Family, he Humbly be<g ref="char:EOLhyphen"/>sought the Honourable Bench that he might be Tryed or Bailed, but he being committed before the last Sessions, and not taking she be<g ref="char:EOLhyphen"/>nefit thereof to make his Prayer, It was the opinion of the Court that he had over-stayed the benefit of the Act, and that it say not in their Power to grant his Request.</p>
+            <p>
+               <hi>Augustine Hankinson</hi> and <hi>Hu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phy Steech,</hi> took their Tryals for Stealing a Campaign-Coat, from one <hi>Robert Clark</hi> in <hi>January</hi> last, but they producing divers to attest his former Honesty and good Behaviour, so that in the end the Jurors supposing the Witnesses might be mistaken in the Coat, Mr. <hi>Clark</hi> himself not positively owning it, they acquitted the Prisoners.</p>
+            <p>
+               <hi>James Knowel</hi> was Tryed for Killing <hi>George Atkinson </hi> on the 3<hi>d</hi> of <hi>July</hi> last, which appeared upon evidence, that the Prisoner &amp; Deceased, Drinking together many hours, at last fell to quareling, but being both pacified, they went together into the Field, and there drew upon each other, after divers passes, the latter received a Mortal wound in the Belly, of which he Died, but the Prisoner pleading he did it in his own Defence, and no former Mallice appearing, he was found Guilty only of Man Slaughter.</p>
+            <p>
+               <hi>Gabriel Whinyard, Richard Goodman, Thomas Richards,</hi> and <hi>John Everard,</hi> were Tryed the first for Killing, and the rest for being accessary to the Murther of <hi>R. Lake,</hi> when upon evidence it appeared that on the 9<hi>th</hi> of <hi>July</hi> last, they drinking together in an Ale-House in St. <hi>Martins-Lane</hi> Fought, <hi>viz. Whinyard</hi> and <hi>Lake,</hi> so that the latter by a fall, had his Jaw broken, of which within 4 days he Dyed, so that <hi>Whinyard</hi> was found Guilty of Man Slaughter, but the rest acquitted, it not appearing they were any ways Aiding or Abberting.</p>
+            <p>
+               <hi>John Culefant</hi> was Tryed for Printing, and Publishing, two Scandalous and Seditious Libels, the one Intituled, The <hi>Second part of the Growth of Popery,</hi> and the other, The <hi>Second part of Ignoramus Justice,</hi> and it being pro<g ref="char:EOLhyphen"/>ved, he brought the Coppy, Corrected the Proofs, and Incouraged the Work, he was found Guilty of the mis<g ref="char:EOLhyphen"/>demeanour.</p>
+            <p>
+               <hi>James Handcock</hi> was Tryed for Stealing a Silver Tankard from <hi>Will. Clinch,</hi> in <hi>Amen Corner,</hi> the which being plainly proved, and he being before Burnt in the Hand, he was found Guilty of the Fellony.</p>
+            <p>
+               <hi>Jane Wixal</hi> was Tryed and found Guilty for Stealing three Silver Cups and a Pinner from <hi>William Woodvil</hi> of <hi>White-Chappel,</hi> on the 18 of <hi>July</hi> last.</p>
+            <p>
+               <hi>John Robinson</hi> was found Guilty of <hi>Pette Lacenary,</hi> for Stealing Lace, Tape, Parchment and the like, on the 15 of <hi>August,</hi> from <hi>Elizabeth Adams</hi> of St. <hi>Giles</hi>'s in the Fields.</p>
+            <p>
+               <hi>Richard Smith</hi> was Tryed and found Guilty for Pick<g ref="char:EOLhyphen"/>ing the Pocket of <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Redd,</hi> of 21 Guni<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> near <hi>Bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s-Bridge,</hi> on the 19 of <hi>June</hi> last.</p>
+            <p>
+               <hi>Elizabeth Bird</hi> was Tryed and Convicted for Steal<g ref="char:EOLhyphen"/>ing Knives, Swords, Canes, and Whips, to the Value of 20 <hi>l.</hi> from <hi>Ephraim Waradine</hi> in St. <hi>Martins Lane,</hi> on the 25 of <hi>May</hi> last.</p>
+            <p>This Sessions five Persons received Sentence of Death, <hi>viz. Richard Smith, Sarah Parson, Mary Marsh, Eliz<g ref="char:EOLhyphen"/>abeth Bird,</hi> and <hi>Francis Marshal.</hi> Five Burnt in the Hand, viz. <hi>Edward Daniel, Gabriel Whinyard, Jane Wixel, John Smith,</hi> and <hi>Tho. Norton.</hi> Four ordered for Transportation, viz. <hi>James Hancock, Joseph Curtis, Peter Neverson,</hi> and <hi>Laurence Adington.</hi> Two Sen<g ref="char:EOLhyphen"/>tenced to be Whipped, viz. <hi>John Robinson</hi> and <hi>Wil<g ref="char:EOLhyphen"/>liam Smith.</hi> And Lastly, <hi>John Culefant</hi> was Fined Two hundred pound, to stand in the Pillory, once at the Royal-<hi>Exchange,</hi> and once at <hi>Chancery-Lane-end,</hi> to continue in Prison till the Fine be payed, and give Security for his good Behaviour, during the space of two years. And so Ended the Sessions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
